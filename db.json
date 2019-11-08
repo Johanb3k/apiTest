@@ -1,19 +1,11 @@
-[{
-    "id": "19R130260001000031",
-    "title": "SSSR",
-    "start": "2019-11-01T16:00:00",
-    "classNames": "SSSR"
-  },
-  {
-    "id": "19R1302145201000031",
-    "title": "B78",
-    "start": "2019-11-09",
-    "classNames": "B78"
-  },
-  {
-    "id": "19R130214558550031",
-    "title": "B78",
-    "start": "2019-11-09T19:00:00",
-    "classNames": "B78"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
